@@ -27,7 +27,7 @@ improve the thoroughness of pre-deployment security analysis.
 
 ## What I'm building
 
-- **[ContaComigo](https://github.com/luca-dallalana)** — RAG chatbot over official Portuguese IRS documentation. Free, open-source, cites the CIRS article for every answer. Built with pgvector, Ollama, and hybrid BM25 + semantic retrieval.
+- **[ContaComigo](https://github.com/luca-dallalana/ContaComigo)** — RAG chatbot over official Portuguese IRS documentation. Free, open-source, cites the CIRS article for every answer. Built with pgvector, Ollama, and hybrid BM25 + semantic retrieval.
 - **zkML PoC** — generating ZK proofs of neural net inference using EZKL. Exploring verifiable compute at the intersection of blockchain and AI.
 
 ---
@@ -39,7 +39,7 @@ improve the thoroughness of pre-deployment security analysis.
 | [DepChain](https://github.com/luca-dallalana/DepChain) | HotStuff BFT consensus from the paper + EVM execution + BLS threshold signatures | Java, Hyperledger Besu |
 | [CivicEcho](https://github.com/luca-dallalana/CivicEcho) | Anonymous reporting system across 3 isolated subnets with hybrid AES-GCM/RSA and mTLS 1.3 | Java, iptables |
 | [VPPaaS](https://github.com/luca-dallalana/Virtual_PowerPlant_Platform) | 8 Quarkus microservices, 3-broker Kafka, Camunda 8 BPMN orchestration, Terraform on AWS | Java, HCL, Shell |
-| [ContaComigo](https://github.com/luca-dallalana) | RAG chatbot over Portuguese IRS law — cites CIRS articles, runs fully local with Ollama | Python, pgvector |
+| [ContaComigo](https://github.com/luca-dallalana/ContaComigo) | RAG chatbot over Portuguese IRS law — cites CIRS articles, runs fully local with Ollama | Python, pgvector |
 
 ---
 
