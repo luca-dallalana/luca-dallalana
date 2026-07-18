@@ -67,8 +67,8 @@ improve the thoroughness of pre-deployment security analysis.
 ## GitHub stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=luca-dallalana&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=prs" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luca-dallalana&layout=compact&theme=github_dark&hide_border=true&hide=html,javascript" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luca-dallalana&theme=github_dark" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luca-dallalana&theme=github_dark&exclude=html,javascript" />
 </p>
 
 ![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=luca-dallalana&theme=github-compact&hide_border=true&area=true)
