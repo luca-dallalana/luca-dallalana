@@ -1,9 +1,9 @@
 # Luca Dallalana
 
-Software Engineer at TensorOps, working at the intersection of AI and distributed infrastructure.
+AI Engineer at TensorOps, working at the intersection of AI and distributed infrastructure.
 
 MSc student in Distributed Systems and Cloud Management at IST Lisboa. My research focuses on
-automated LLM-assisted invariant generation and verification for smart contracts — using large
+automated LLM-assisted invariant generation and verification for smart contracts, using large
 language models to automatically generate and verify correctness properties for blockchain
 applications before deployment, where vulnerabilities are irreversible.
 
@@ -14,9 +14,8 @@ applications before deployment, where vulnerabilities are irreversible.
 - **MSc Thesis** — automated LLM-assisted invariant generation and verification for smart contracts.
   Using LLMs to generate correctness properties for Solidity contracts and verify them with
   invariant-checking tools. Primary background: [FLAMES](https://arxiv.org/abs/2510.21401).
-- **zkML PoC** — ZK proofs of neural net inference using EZKL. Verifiable compute at the
-  intersection of blockchain and AI.
-- **CKA prep** — working toward Certified Kubernetes Administrator.
+- **Consensus Visualizer** — extending the HotStuff Visualizer to cover multiple BFT and CFT
+  protocols side by side. Exploring PBFT, Tendermint, Raft, and others.
 
 ---
 
@@ -70,16 +69,15 @@ applications before deployment, where vulnerabilities are irreversible.
 ## Currently reading
 
 - [HotStuff: BFT Consensus with Linearity and Responsiveness](https://arxiv.org/abs/1803.05069) — basis for DepChain and HotStuff Visualizer
+- [Practical Byzantine Fault Tolerance](https://pmg.csail.mit.edu/papers/osdi99.pdf) — PBFT, the foundation of modern BFT protocols
 - [FLAMES: LLM-assisted Invariant Generation for Smart Contracts](https://arxiv.org/abs/2510.21401) — primary background for thesis
-- [Attention Is All You Need](https://arxiv.org/abs/1706.03762) — transformer foundations for zkML work
-- [ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://arxiv.org/abs/1910.02054) — distributed training internals
 
 ---
 
 ## Let's talk
 
 Based in Lisbon, open to remote. Interested in distributed systems, blockchain protocol
-engineering, AI infrastructure, and cloud platform roles.
+engineering, AI infrastructure, and cloud platform.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-dallalana-3b4668378/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dallalanaluca@gmail.com)
