@@ -55,17 +55,6 @@ applications before deployment, where vulnerabilities are irreversible.
 
 ---
 
-## GitHub stats
-
-<p align="left">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luca-dallalana&theme=github_dark" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luca-dallalana&theme=github_dark&exclude=html,javascript" />
-</p>
-
-![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=luca-dallalana&theme=github-compact&hide_border=true&area=true)
-
----
-
 ## Currently reading
 
 - [HotStuff: BFT Consensus with Linearity and Responsiveness](https://arxiv.org/abs/1803.05069) — basis for DepChain and HotStuff Visualizer
