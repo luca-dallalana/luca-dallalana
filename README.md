@@ -28,8 +28,6 @@ applications before deployment, where vulnerabilities are irreversible.
 | [HotStuff Visualizer](https://github.com/luca-dallalana/HotStuff_Visualizer) | Interactive simulator for Basic and Chained HotStuff with configurable Byzantine fault strategies, packet drop rates, and deterministic replay. [Live demo.](https://luca-dallalana.github.io/HotStuff_Visualizer/) | TypeScript, React, D3 |
 | [pt-phish-watch](https://github.com/luca-dallalana/pt-phish-watch) | CT log monitor streaming 3 Google/Cloudflare logs concurrently, flagging domains impersonating Portuguese banks, telecoms, and government services. 2,029 certificates flagged across a 7-day observation window. | Python, Docker, SQLite |
 | [ContaComigo](https://github.com/luca-dallalana/ContaComigo) | RAG chatbot over official Portuguese IRS documentation — hybrid BM25 + semantic-retrieval, cites CIRS articles, runs fully local with Ollama. | Python, pgvector, Ollama |
-| [CivicEcho](https://github.com/luca-dallalana/CivicEcho) | Anonymous reporting system across 3 isolated subnets. Hybrid AES-GCM/RSA, AAD-bound routing, mTLS 1.3, token rate limiting with replay prevention. | Java, iptables |
-| [VPPaaS](https://github.com/luca-dallalana/Virtual_PowerPlant_Platform) | 8 Quarkus microservices, 3-broker Kafka, Camunda 8 BPMN orchestration, Kong API gateway, Terraform on AWS. | Java, HCL, Shell |
 
 ---
 
